@@ -7,4 +7,4 @@ Finishing up my undergrad degree, trying to develop an Open Source Software cont
 I have experience making web apps with Python Flask and HTML/CSS/JS, but I am looking to get back into node.js stuff. Will be working on a few "good-first-commit" tagged issues for a bit and see where it takes me.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/YungBryanX?label=Follow%20Me&style=social)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/263265?domain=fosstodon.org&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/263265?domain=fosstodon.org/web/accounts/&style=social)
