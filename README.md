@@ -8,3 +8,10 @@ I have experience making web apps with Python Flask and HTML/CSS/JS, but I am lo
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/YungBryanX?label=Follow%20Me&style=social)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/263265?domain=https%3A%2F%2Ffosstodon.org&style=social)
+
+## Milestones 🏅
+
+✅ Made account September 8, 2020
+✅ First pull request January 6, 2020
+✅ First organization invite January 7, 2020
+✅ Completled learnyounode January 8, 2020
