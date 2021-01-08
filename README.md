@@ -17,4 +17,4 @@ I have experience making web apps with Python Flask and HTML/CSS/JS, but I am lo
 
 ✅ First organization invite January 7, 2020
 
-✅ Completled learnyounode January 8, 2020
+✅ Completed learnyounode January 8, 2020
